@@ -1,0 +1,15 @@
+C:\Users\acer\source\repos\LB1\Task1\bin\Debug\net8.0\Task1.exe
+C:\Users\acer\source\repos\LB1\Task1\bin\Debug\net8.0\Task1.deps.json
+C:\Users\acer\source\repos\LB1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+C:\Users\acer\source\repos\LB1\Task1\bin\Debug\net8.0\Task1.dll
+C:\Users\acer\source\repos\LB1\Task1\bin\Debug\net8.0\Task1.pdb
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.dll
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\refint\Task1.dll
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.pdb
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\acer\source\repos\LB1\Task1\obj\Debug\net8.0\Task1.sourcelink.json
