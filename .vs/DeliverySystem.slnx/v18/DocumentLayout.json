@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|solutionrelative:deliverysystem\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|solutionrelative:deliverysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|solutionrelative:deliverysystem\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem\\deliverysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|solutionrelative:deliverysystem\\deliverysystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B71C658-20CD-2A70-F718-B1AB0AFD53ED}|DeliverySystem.Tests\\DeliverySystem.Tests.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem.tests\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B71C658-20CD-2A70-F718-B1AB0AFD53ED}|DeliverySystem.Tests\\DeliverySystem.Tests.csproj|solutionrelative:deliverysystem.tests\\cartests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B71C658-20CD-2A70-F718-B1AB0AFD53ED}|DeliverySystem.Tests\\DeliverySystem.Tests.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem.tests\\deliverysystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B71C658-20CD-2A70-F718-B1AB0AFD53ED}|DeliverySystem.Tests\\DeliverySystem.Tests.csproj|solutionrelative:deliverysystem.tests\\deliverysystem.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|solutionrelative:deliverysystem\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B71C658-20CD-2A70-F718-B1AB0AFD53ED}|DeliverySystem.Tests\\DeliverySystem.Tests.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem.tests\\vantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B71C658-20CD-2A70-F718-B1AB0AFD53ED}|DeliverySystem.Tests\\DeliverySystem.Tests.csproj|solutionrelative:deliverysystem.tests\\vantests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|c:\\users\\acer\\source\\repos\\deliverysystem\\deliverysystem\\van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D3529D-1BB3-3B31-93D5-18193F2CC3D9}|DeliverySystem\\DeliverySystem.csproj|solutionrelative:deliverysystem\\van.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 402,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Vehicle.cs",
+              "RelativeDocumentMoniker": "DeliverySystem\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Vehicle.cs",
+              "RelativeToolTip": "DeliverySystem\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:00:47.642Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeliverySystem.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem.Tests\\DeliverySystem.Tests.csproj",
+              "RelativeDocumentMoniker": "DeliverySystem.Tests\\DeliverySystem.Tests.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem.Tests\\DeliverySystem.Tests.csproj",
+              "RelativeToolTip": "DeliverySystem.Tests\\DeliverySystem.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T16:06:59.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarTests.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem.Tests\\CarTests.cs",
+              "RelativeDocumentMoniker": "DeliverySystem.Tests\\CarTests.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem.Tests\\CarTests.cs",
+              "RelativeToolTip": "DeliverySystem.Tests\\CarTests.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:05:55.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeliverySystem.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
+              "RelativeDocumentMoniker": "DeliverySystem\\DeliverySystem.csproj",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\DeliverySystem.csproj",
+              "RelativeToolTip": "DeliverySystem\\DeliverySystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-19T22:16:29.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Car.cs",
+              "RelativeDocumentMoniker": "DeliverySystem\\Car.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Car.cs",
+              "RelativeToolTip": "DeliverySystem\\Car.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:01:09.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VanTests.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem.Tests\\VanTests.cs",
+              "RelativeDocumentMoniker": "DeliverySystem.Tests\\VanTests.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem.Tests\\VanTests.cs",
+              "RelativeToolTip": "DeliverySystem.Tests\\VanTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:07:24.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Van.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Van.cs",
+              "RelativeDocumentMoniker": "DeliverySystem\\Van.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Van.cs",
+              "RelativeToolTip": "DeliverySystem\\Van.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:00:46.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scooter.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Scooter.cs",
+              "RelativeDocumentMoniker": "DeliverySystem\\Scooter.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Scooter.cs",
+              "RelativeToolTip": "DeliverySystem\\Scooter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T16:00:45.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Program.cs",
+              "RelativeDocumentMoniker": "DeliverySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\DeliverySystem\\DeliverySystem\\Program.cs",
+              "RelativeToolTip": "DeliverySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T15:57:22.414Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
