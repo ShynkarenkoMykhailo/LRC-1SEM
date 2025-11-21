@@ -1,0 +1,9 @@
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\bin\Debug\net8.0\.msCoverageExtensionSourceRootsMapping_SmartHomeSystemTests
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\bin\Debug\net8.0\.msCoverageSourceRootsMapping_SmartHomeSystemTests
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.gentestingplatformentrypointinputcache.cache
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.genautoregisteredextensionsinputcache.cache
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.AssemblyInfo.cs
+C:\Users\acer\source\repos\SmartHomeSystem\SmartHomeSystemTests\obj\Debug\net8.0\SmartHomeSystemTests.csproj.CoreCompileInputs.cache
